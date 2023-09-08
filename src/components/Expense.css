@@ -1,0 +1,38 @@
+.Transaction-card{
+    height: 250px; 
+    display: flex;
+    justify-content:space-around;
+    background-color:beige;
+
+}
+
+.displaybar{
+  display: flex;
+  text-align: center;
+}
+
+.balance{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(78, 149, 231);
+   margin: 25px;
+   color: azure;
+
+}
+
+.income{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(78, 149, 231);
+    margin: 25px;
+    color:azure;
+}
+
+.expense{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(78, 149, 231);
+    margin: 25px;
+    color: azure;
+}
+

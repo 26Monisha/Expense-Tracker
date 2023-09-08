@@ -1,0 +1,42 @@
+.form{
+    background-color: rgba(196, 149, 110,0.2);
+    margin:20px 10px 0px 40px;
+    padding: 20px;
+    width: 50%;
+    height: 500px;;
+}
+
+.transaction-form{
+  align-self: center;
+}
+
+.label{
+    font-weight: 700;
+line-height: 30px;
+
+}
+
+.input{
+    padding: 10px;
+    
+}
+
+.buttons{
+    margin-top: 20px ;
+}
+
+.income-btn{
+    margin: 5px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    font-size: large;
+}
+
+.expense-btn{
+    margin: 5px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    font-size: large;
+}
